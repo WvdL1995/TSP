@@ -1,43 +1,43 @@
 Robohouse
-Architecture
-Architectural Engineering & Technology
-Management in the Built Environment
-Urbanism
-Engineering Structures
-Geoscience & Engineering
-Geoscience & Remote Sensing
 Hydraulic Engineering
-Materials, Mechanics, Management & Design (3Md)
-Transport & Planning
-Water Management
-Applied Mathematics
-Electrical Sustainable Energy
-Intelligent Systems
-Microelectronics
-Quantum & Computer Engineering
-Software Technology
-Sustainable Design Engineering
-Human-Centered Design
 Design, Organisation and Strategy
-Aerodynamics, Flight Performance and Propulsion & Wind Energy
-Aerospace Structures & Materials
-Control & operations
-Space Engineering
-Engineering Systems & Services
-Multi Actor Systems
-Values, Technology & Innovation
-Bionanoscience
-Biotechnology
-Chemical Engineering
-Imaging Physics
-Quantum Nanoscience
-Radiation Science & Technology
+Applied Mathematics
 Science Education and Communication
-Biomechanical Engineering
-Cognitive Robotics
+Microelectronics
 Maritime & Transport Tech
-Materials Science & Engineering
-Precision & Microsystems Engineering
-Process & Energy
+Urbanism
+Geoscience & Engineering
+Materials, Mechanics, Management & Design (3Md)
+Quantum & Computer Engineering
+Multi Actor Systems
+Water Management
 Systems & Control
+Electrical Sustainable Energy
+Imaging Physics
+Control & operations
+Biotechnology
+Precision & Microsystems Engineering
+Architectural Engineering & Technology
+Engineering Systems & Services
+Quantum Nanoscience
+Space Engineering
+Management in the Built Environment
+Aerodynamics, Flight Performance and Propulsion & Wind Energy
+Human-Centered Design
+Chemical Engineering
+Materials Science & Engineering
+Geoscience & Remote Sensing
+Aerospace Structures & Materials
+Architecture
+Bionanoscience
+Radiation Science & Technology
+Transport & Planning
+Engineering Structures
+Process & Energy
+Values, Technology & Innovation
+Intelligent Systems
+Software Technology
+Cognitive Robotics
+Biomechanical Engineering
+Sustainable Design Engineering
 Robohouse
