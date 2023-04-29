@@ -10,3 +10,7 @@ In functions:
 - gen_data(): generates a random distance matrix of given size
 - load_data(): loads the csv data file
 - save_solution(): saves the solution to a txt file
+
+Additional files:
+- example.py: a code example, check it out to see how the given functions can be used.
+- solution.txt an example solution in the correct format. You can use this to benchmark your own method!
